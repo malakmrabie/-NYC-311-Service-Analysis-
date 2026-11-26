@@ -12,7 +12,7 @@ parquet_files = [
 ]
 
 # Output CSV
-output_file = folder_path / "NYC_311_2024_ALL_MONTHS_MERGED.csv"
+output_file = folder_path / "NYC_311_2024_ALL_MONTHS.csv"
 
 # Check files
 for file in parquet_files:
